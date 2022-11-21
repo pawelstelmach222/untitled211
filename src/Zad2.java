@@ -13,4 +13,6 @@ public class Zad2 {
             System.out.println("Data jest magiczna");
         }else System.out.println("Data nie jest magiczna");
     }
+
 }
+
