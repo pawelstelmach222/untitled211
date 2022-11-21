@@ -9,7 +9,7 @@ public class Zad7 {
         String imie3=klawiatura.nextLine();
         if (imie1.compareToIgnoreCase(imie2) < 0){
             System.out.println(imie1 + " jest pierwszy alfabetycznie  " );
-        }
+        }//
 
         else if (imie1.compareTo(imie2) > 0){
             System.out.println(imie2 + " jest pierwszy alfabetycznie");
